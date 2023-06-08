@@ -10,10 +10,10 @@
                 <span class="todo__text">{item.task}</span> 
                 <div class="todo__buttons"> 
                     <button class="complete" on:click={() => complete(index)}> 
-                        <Icon name="check-mark" /> 
+                        Скрыть
                     </button> 
                     <button class="delete" on:click={() => remove(index)}> 
-                        <Icon name="delete" /> 
+                        Удалить
                     </button> 
                 </div> 
             </div> 
@@ -97,11 +97,13 @@ button.delete,
 button.delete:hover {
   color: brown;
   transition: color 100ms ease-out;
+  margin-left:20px;
 }
 button.complete,
 button.complete:hover {
   color: cadetblue;
   transition: color 100ms ease-out;
+  margin-left:-100px;
 }
 .todo.completed {
   color: slategray;
@@ -123,7 +125,7 @@ button.complete:hover {
 
 
 <script> 
-    import Icon from "../../../components/Icon.svelte"; 
+
     let newItem = ""; 
     let todoList = []; 
     function add() { 
