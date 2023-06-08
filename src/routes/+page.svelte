@@ -29,13 +29,13 @@
                 <div class='container info-container'>
                     <div class='info-text'>
                         <h1>
-                            <p class='animate-text-1'>Lorem ipsum dolor sit,</p>
-                            <p class='text-2'>Lorem ipsum dolor sit amet.</p>
+                            <p class='animate-text-1'>Я фронтенд программист,</p>
+                            <p class='text-2'>А это мой сайт с моими работами.</p>
                         </h1>
                     </div>
                     <h2 class='subtitle'>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores
-                        ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                        На моем сайте вы можете увидеть статьи и мои проекты
+                        А так же вы можете со мной связаться во вкладке "Обо мне"
                     </h2>
                     <div style='color:black' class='scroll-button animate-scroll' tabindex='0'>
                         <a href='/about'>Click Here</a>

@@ -1,8 +1,8 @@
 <div class="container">
     <a href="/blog">Домой</a>
-    <h1>Elit cillum dolore aliqua nostrud occaecat aliquip laboris Lorem.</h1>
+    <h1>Как я стал WEB-программистом</h1>
 
-<p>Nulla deserunt ad veniam id labore pariatur dolor enim sit ut commodo aliqua. Est reprehenderit veniam magna elit id fugiat enim commodo eiusmod. Commodo dolore est laborum amet aliqua ullamco velit mollit in anim aliqua. Reprehenderit est incididunt ad excepteur ut nisi fugiat voluptate non non Lorem irure. Tempor ut esse consequat proident culpa ex ea occaecat consectetur in commodo. Irure ut proident ullamco consectetur consectetur exercitation laboris.</p>
+<p>Началось это полгода назад , я начал проходить курсы по HTML5 и меня это очень сильно завлекло, тем что ты сам творишь что хочешь , как художник на картине.<br><br>И после такого большого пути я научился каким либо навыком, которые мне пригодятся в жизни.</p>
     <slot />
   </div>
   <style>

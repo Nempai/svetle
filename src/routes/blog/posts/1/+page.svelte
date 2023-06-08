@@ -1,8 +1,10 @@
 <div class="container">
     <a href="/blog">Домой</a>
-    <h1>Elit cillum dolore aliqua nostrud occaecat aliquip laboris Lorem.</h1>
+    <h1>Мой первый блог</h1>
 
-<p>Nulla deserunt ad veniam id labore pariatur dolor enim sit ut commodo aliqua. Est reprehenderit veniam magna elit id fugiat enim commodo eiusmod. Commodo dolore est laborum amet aliqua ullamco velit mollit in anim aliqua. Reprehenderit est incididunt ad excepteur ut nisi fugiat voluptate non non Lorem irure. Tempor ut esse consequat proident culpa ex ea occaecat consectetur in commodo. Irure ut proident ullamco consectetur consectetur exercitation laboris.</p>
+<p>Этот сайт был создан на svelte и это было достаточно трудно реализовать в реальности, но немного терпения , усидчивости и все было готово<br><br>
+    Насчет этого фреймворка (Svelve) могу сказать: что достаточно сложный фреймворк для новичка , каким являюсь я , но достаточно удобный с большим функционалом<br><br>Конец!
+</p>
     <slot />
   </div>
   <style>

@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-      <a href="/" class="nav-logo" title="Back to Homepage">Имя Фамилия</a>
+      <a href="/" class="nav-logo" title="Back to Homepage">Данил Самсонов</a>
       <div class="nav-links">
         {#each nav as link}
         <a href={link.href} class="link">{link.title}</a>
@@ -95,11 +95,6 @@
       title: 'Контакты',
       href: '/contact',
       isShow:true,
-    },
-    {
-      title: 'temp',
-      href: '/temp',
-      isShow:false,
     }
   ]
 </script>
