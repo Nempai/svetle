@@ -2,7 +2,7 @@
     <title>Партфолио</title>
 </svetle:head>
 
-<!--<div class="container">
+<div class="container">
     <h1>Мои проекты</h1>
     <div class="apps">
         {#each routes as page}
@@ -17,7 +17,7 @@
         </div>
         {/each}
     </div>
-</div>-->
+</div>
 
 <svelte:head>
     <title>Имя Фамилия</title>
